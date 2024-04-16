@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(190, 170, 170);
+    color: rgb(13, 13, 13);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+h5{
+    text-align: center;
+    font-style: italic;
+    background-color: rgb(132, 123, 123);
+    font-weight: bolder;
+    display: inline;
+}
+a{
+    color: rgb(6, 6, 6);
+}
+a:visited{
+    color: rgb(16, 16, 45);
+}
+img{
+    border: 2px solid rgb(236, 223, 236);
+    padding: 3px;
+    margin: 5px;
+    display: block;
+    margin: auto
+}
+.rizz{
+    font-stretch: wider;
+    color: bisque;
+}
+.backround{
+    background-color: rgb(249, 225, 190);
+}
